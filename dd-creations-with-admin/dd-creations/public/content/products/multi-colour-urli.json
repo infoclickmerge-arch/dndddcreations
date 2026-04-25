@@ -1,0 +1,13 @@
+{
+  "id": "multi-colour-urli",
+  "name": "Multi-colour Urli (3.5', 4.5', 5.5')",
+  "price": 1200,
+  "category": "Gift Hampers",
+  "description": "Stunning traditional Urli sets handcrafted in multiple sizes to suit your space. These multi-colour pieces are perfect for creating a serene atmosphere with floating candles and fresh flower petals, adding a touch of heritage to your home.",
+  "image": "https://lh3.googleusercontent.com/d/11Asy7CI0JoBWmIOiWP-vdbHtQLCFUT3Y",
+  "features": ["Hand-painted", "Traditional Decor", "Set of 3"],
+  "variants": ["3.5 inch", "4.5 inch", "5.5 inch"],
+  "reviews": [
+    { "id": "r15", "userName": "Sunita P.", "rating": 5, "comment": "High quality metal and paint.", "date": "2023-11-01" }
+  ]
+}

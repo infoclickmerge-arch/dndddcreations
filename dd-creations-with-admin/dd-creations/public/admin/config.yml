@@ -1,0 +1,70 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "public/images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "products"
+    label: "Products"
+    folder: "public/content/products"
+    create: true
+    slug: "{{slug}}"
+    extension: "json"
+    format: "json"
+    fields:
+      - { label: "ID", name: "id", widget: "string", hint: "Unique identifier (e.g., bubble-candle)" }
+      - { label: "Name", name: "name", widget: "string" }
+      - { label: "Price", name: "price", widget: "number", value_type: "int" }
+      - { 
+          label: "Category", 
+          name: "category", 
+          widget: "select", 
+          options: ["Candles", "Wax Sachets", "Gift Hampers"] 
+        }
+      - { label: "Description", name: "description", widget: "text" }
+      - { label: "Featured Image", name: "image", widget: "image" }
+      - { 
+          label: "Features", 
+          name: "features", 
+          widget: "list", 
+          field: { label: "Feature", name: "feature", widget: "string" } 
+        }
+      - { 
+          label: "Variants", 
+          name: "variants", 
+          widget: "list", 
+          required: false,
+          field: { label: "Variant", name: "variant", widget: "string" },
+          hint: "Optional: e.g., Set of 4, Set of 6"
+        }
+      - {
+          label: "Reviews",
+          name: "reviews",
+          widget: "list",
+          required: false,
+          fields:
+            - { label: "User Name", name: "userName", widget: "string" }
+            - { label: "Rating", name: "rating", widget: "number", min: 1, max: 5 }
+            - { label: "Comment", name: "comment", widget: "text" }
+            - { label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DD" }
+        }
+
+  - name: "settings"
+    label: "Site Settings"
+    delete: false
+    editor:
+      preview: false
+    files:
+      - name: "brand"
+        label: "Brand Information"
+        file: "public/content/settings/brand.json"
+        fields:
+          - { label: "Brand Name", name: "name", widget: "string" }
+          - { label: "Tagline", name: "tagline", widget: "string" }
+          - { label: "Logo URL", name: "logo", widget: "image" }
+          - { label: "Phone", name: "phone", widget: "string" }
+          - { label: "Email", name: "email", widget: "string" }
+          - { label: "Instagram URL", name: "instagram", widget: "string" }
+          - { label: "WhatsApp Link", name: "whatsapp", widget: "string" }

@@ -1,0 +1,12 @@
+{
+  "id": "evil-eye-candle",
+  "name": "Evil Eye Candle",
+  "price": 650,
+  "category": "Candles",
+  "description": "Protect your space and invite positive energy with our stunningly detailed Evil Eye candle. Each piece is hand-painted with care, combining traditional symbolism with modern artisanal craftsmanship to create a unique protective charm for your home.",
+  "image": "https://lh3.googleusercontent.com/d/1iqYMbcK2Jvbqn8r3dwj8cLGUoXhtNZ25",
+  "features": ["Symbolic", "Hand-painted details", "Unique Gift"],
+  "reviews": [
+    { "id": "r10", "userName": "Neha W.", "rating": 5, "comment": "Stunning detail, very protective vibe.", "date": "2024-03-25" }
+  ]
+}

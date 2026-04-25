@@ -1,0 +1,12 @@
+{
+  "id": "rose-teddy-candle",
+  "name": "Rose Teddy Candle",
+  "price": 550,
+  "category": "Candles",
+  "description": "A romantic and whimsical blend of a classic teddy bear shape and delicate rose aesthetics. Each candle is intricately detailed and hand-poured, making it a thoughtful and unique gift for anniversaries, birthdays, or just to show someone you care.",
+  "image": "https://lh3.googleusercontent.com/d/1TJMk5qIiexFcPEEF6uFj1qqIAsp3B6hR",
+  "features": ["Intricate Detail", "Hand-poured", "Gift Ready"],
+  "reviews": [
+    { "id": "r7", "userName": "Vikram T.", "rating": 5, "comment": "Perfect anniversary gift.", "date": "2024-02-14" }
+  ]
+}

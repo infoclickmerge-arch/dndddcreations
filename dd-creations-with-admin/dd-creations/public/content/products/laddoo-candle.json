@@ -1,0 +1,13 @@
+{
+  "id": "laddoo-candle",
+  "name": "Laddoo Candle (Set of 1, 4, 6)",
+  "price": 150,
+  "category": "Candles",
+  "description": "Traditional Indian aesthetics meet modern artisanal craftsmanship. Our Laddoo candles are designed to look exactly like the beloved festive sweet, bringing a touch of cultural warmth and celebration to your home decor. Perfect for festive gifting.",
+  "image": "https://lh3.googleusercontent.com/d/1WXOD_RLo99kzh-tLcrfR6tQu7gGk84N4",
+  "features": ["Traditional Look", "Festive", "Multiple Set Options"],
+  "variants": ["Set of 1", "Set of 4", "Set of 6"],
+  "reviews": [
+    { "id": "r13", "userName": "Deepak H.", "rating": 5, "comment": "Perfect for festive decor.", "date": "2023-10-20" }
+  ]
+}

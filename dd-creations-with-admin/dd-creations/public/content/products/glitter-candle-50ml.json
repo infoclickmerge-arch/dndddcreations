@@ -1,0 +1,12 @@
+{
+  "id": "glitter-candle-50ml",
+  "name": "Glitter Candle (50ml)",
+  "price": 199,
+  "category": "Candles",
+  "description": "A small jar packed with magical sparkle. This 50ml glitter candle is designed to create an enchanting atmosphere with its shimmering finish and delightful fragrance. Perfect for travel or as a charming addition to a gift hamper.",
+  "image": "https://lh3.googleusercontent.com/d/1HsdFPHvOOOSbmUAARCqU2GhQE3fSGaqu",
+  "features": ["Sparkling Finish", "Travel Friendly", "Scented"],
+  "reviews": [
+    { "id": "r11", "userName": "Arjun B.", "rating": 4, "comment": "Small but very sparkly.", "date": "2024-03-28" }
+  ]
+}

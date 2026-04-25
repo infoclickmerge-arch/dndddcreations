@@ -1,0 +1,12 @@
+{
+  "id": "ring-wax-sachet",
+  "name": "Ring Wax Sachet",
+  "price": 250,
+  "category": "Wax Sachets",
+  "description": "Infuse your personal spaces with a delicate, long-lasting fragrance. Our ring-shaped wax sachet is handcrafted with premium wax and adorned with real dried botanicals. Perfect for hanging in wardrobes, drawers, or small rooms to keep them smelling fresh for months.",
+  "image": "https://lh3.googleusercontent.com/d/1-PW8-DXo1oXQal0La7rOMerrIH_ic-KM",
+  "features": ["Natural Fragrance", "Dried Flowers", "Lasts 2-3 months"],
+  "reviews": [
+    { "id": "r6", "userName": "Meera G.", "rating": 5, "comment": "My wardrobe smells like a garden!", "date": "2024-01-10" }
+  ]
+}

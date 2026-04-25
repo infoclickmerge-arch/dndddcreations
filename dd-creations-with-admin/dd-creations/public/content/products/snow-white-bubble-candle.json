@@ -1,0 +1,12 @@
+{
+  "id": "snow-white-bubble-candle",
+  "name": "Snow-White Bubble Candle",
+  "price": 375,
+  "category": "Candles",
+  "description": "Pure, pristine, and undeniably elegant. The snow-white version of our signature bubble candle is designed for those who appreciate the beauty of simplicity. Made from 100% natural soy wax, it brings a sense of calm, purity, and sophisticated luxury to your living space.",
+  "image": "https://lh3.googleusercontent.com/d/1RFEyTIc7VrL3Z-NKqDFyeVjtKw_KOEvg",
+  "features": ["Premium Soy Wax", "Clean Burn", "Artisanal Finish"],
+  "reviews": [
+    { "id": "r5", "userName": "Sneha R.", "rating": 5, "comment": "The white is so pure and elegant.", "date": "2024-03-01" }
+  ]
+}

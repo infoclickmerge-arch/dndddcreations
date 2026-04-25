@@ -1,0 +1,12 @@
+{
+  "id": "gel-soy-heart-candle-50ml",
+  "name": "Gel-Soy Heart Candle (50ml)",
+  "price": 225,
+  "category": "Candles",
+  "description": "Experience the best of both worlds with our unique hybrid gel and soy wax candle. Featuring a clear gel layer that reveals a beautiful heart at its core, this 50ml candle is a true labor of love and a perfect romantic gesture.",
+  "image": "https://lh3.googleusercontent.com/d/1YkeAXnK1g-ttXZRgk4bDWuhP7QgMnbJi",
+  "features": ["Hybrid Wax", "Romantic", "Clear Jar"],
+  "reviews": [
+    { "id": "r12", "userName": "Ishita V.", "rating": 5, "comment": "The heart inside is so beautiful.", "date": "2024-03-30" }
+  ]
+}

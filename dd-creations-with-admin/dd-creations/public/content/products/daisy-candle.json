@@ -1,0 +1,12 @@
+{
+  "id": "daisy-candle",
+  "name": "Daisy Candle",
+  "price": 299,
+  "category": "Candles",
+  "description": "Brighten up your day and your decor with our vibrant daisy-shaped candle. A symbol of purity, innocence, and new beginnings, this handcrafted piece features intricate petal details and a cheerful presence that makes it a perfect small gift.",
+  "image": "https://lh3.googleusercontent.com/d/1Cm-_9XwSL8XIExh4hEb1bDmbF7GExhDF",
+  "features": ["Floral Design", "Handcrafted", "Vibrant Colors"],
+  "reviews": [
+    { "id": "r9", "userName": "Karan J.", "rating": 5, "comment": "Lovely colors and shape.", "date": "2024-03-20" }
+  ]
+}

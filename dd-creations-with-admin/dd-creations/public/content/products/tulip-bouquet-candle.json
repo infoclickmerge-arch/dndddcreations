@@ -1,0 +1,12 @@
+{
+  "id": "tulip-bouquet-candle",
+  "name": "Tulip Bouquet Candle",
+  "price": 750,
+  "category": "Candles",
+  "description": "A stunning, handcrafted bouquet of tulips that never fades. Each flower is hand-poured with incredible attention to detail, creating a floral arrangement that fills your room with beauty and a delicate, fresh fragrance.",
+  "image": "https://lh3.googleusercontent.com/d/1xY3PpIAzvInFRbnHWzRHqBeIoa2MiSwu",
+  "features": ["Bouquet Design", "Floral Scent", "Luxury Gift"],
+  "reviews": [
+    { "id": "r23", "userName": "Radhika Q.", "rating": 5, "comment": "Looks like real flowers!", "date": "2024-03-12" }
+  ]
+}

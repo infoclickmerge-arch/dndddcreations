@@ -1,0 +1,12 @@
+{
+  "id": "real-dried-flower-soy-gel-candle-50ml",
+  "name": "Real Dried Flower Soy-Gel Candle (50ml)",
+  "price": 275,
+  "category": "Candles",
+  "description": "Nature preserved in its most beautiful state. This unique candle features real dried flowers suspended in a crystal-clear gel layer, topped with a clean-burning soy wax core. Each piece is a one-of-a-kind artisanal creation.",
+  "image": "https://lh3.googleusercontent.com/d/1gMDgEUlbXuo5Q1DRL0ZTC-WTzsTivF7L",
+  "features": ["Real Flowers", "Unique Every Time", "Handcrafted"],
+  "reviews": [
+    { "id": "r18", "userName": "Pooja E.", "rating": 5, "comment": "Love the real flowers inside.", "date": "2024-03-05" }
+  ]
+}

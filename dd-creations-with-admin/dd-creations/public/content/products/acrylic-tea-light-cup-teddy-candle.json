@@ -1,0 +1,13 @@
+{
+  "id": "acrylic-tea-light-cup-teddy-candle",
+  "name": "Acrylic Tea-light Cup Teddy Candle (Set of 4, 6, 8)",
+  "price": 450,
+  "category": "Candles",
+  "description": "Our beloved teddy candles, now nestled in premium acrylic cups for a clean, safe, and worry-free burn. These sets are beautifully packaged and ready to be gifted, combining cuteness with practical safety.",
+  "image": "https://lh3.googleusercontent.com/d/13XkQhmUCt_CheBvmoaR3EEXjN5V3AqQE",
+  "features": ["Safe Burn", "Gift Packaging", "Multiple Sets"],
+  "variants": ["Set of 4", "Set of 6", "Set of 8"],
+  "reviews": [
+    { "id": "r22", "userName": "Yash S.", "rating": 4, "comment": "Safe and clean burning.", "date": "2024-03-10" }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "acrylic-tea-lights-set-of-12",
+  "name": "Acrylic Tea-lights (Set of 12)",
+  "price": 450,
+  "category": "Candles",
+  "description": "Premium acrylic tea-lights designed for those who value a steady, clean, and beautiful flame. These clear-cup candles allow the light to shine through completely, creating a warm and inviting atmosphere for any setting.",
+  "image": "https://lh3.googleusercontent.com/d/1Y2aktV74XmgOizeG55UE2NLRYUXR1Liq",
+  "features": ["Steady Flame", "Set of 12", "Clear Cups"],
+  "reviews": [
+    { "id": "r26", "userName": "Mohit Z.", "rating": 4, "comment": "Good value for money.", "date": "2024-03-18" }
+  ]
+}

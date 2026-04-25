@@ -1,0 +1,13 @@
+{
+  "id": "acrylic-xmas-tealights",
+  "name": "Acrylic Xmas Tealights (Set of 12)",
+  "price": 499,
+  "category": "Candles",
+  "description": "Elevate your festive decor with our beautifully crafted acrylic tealights. These premium clear-cup candles provide a steady, beautiful flame that lasts for hours, making them perfect for Diwali, Christmas, or any special celebration. Each set contains 12 pieces of pure warmth and light.",
+  "image": "https://lh3.googleusercontent.com/d/1Y2aktV74XmgOizeG55UE2NLRYUXR1Liq",
+  "features": ["Handmade", "Long-lasting", "Festive Design"],
+  "reviews": [
+    { "id": "r1", "userName": "Anjali S.", "rating": 5, "comment": "Beautiful glow, perfect for Diwali!", "date": "2023-11-10" },
+    { "id": "r2", "userName": "Rahul M.", "rating": 4, "comment": "Very elegant design.", "date": "2023-12-05" }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "big-peony-candle",
+  "name": "Big Peony Candle",
+  "price": 499,
+  "category": "Candles",
+  "description": "A large, breathtaking peony flower captured forever in premium wax. This sophisticated candle features incredibly detailed petals that bloom as it burns, making it a centerpiece that exudes elegance and natural beauty.",
+  "image": "https://lh3.googleusercontent.com/d/1H6UaLSBu1D71PI7mfSPd6_gysYW1pIuZ",
+  "features": ["Large Size", "Detailed Petals", "Elegant"],
+  "reviews": [
+    { "id": "r16", "userName": "Tanvi D.", "rating": 5, "comment": "The detail on the petals is insane.", "date": "2024-02-10" }
+  ]
+}

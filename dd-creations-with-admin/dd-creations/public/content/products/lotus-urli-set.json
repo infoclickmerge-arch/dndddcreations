@@ -1,0 +1,12 @@
+{
+  "id": "lotus-urli-set",
+  "name": "Lotus Urli Set",
+  "price": 1500,
+  "category": "Gift Hampers",
+  "description": "A premium lotus-themed Urli set that exudes luxury, tradition, and spiritual calm. Hand-finished to perfection, it serves as a magnificent centerpiece for festive occasions like Diwali or as a permanent fixture of elegant home decor.",
+  "image": "https://lh3.googleusercontent.com/d/1LXL7H8rIqTqXSu6ZH0cqHpRp-D6DKjQW",
+  "features": ["Luxury Finish", "Lotus Design", "Perfect for Diwali"],
+  "reviews": [
+    { "id": "r17", "userName": "Manish G.", "rating": 5, "comment": "Very premium look.", "date": "2023-11-05" }
+  ]
+}

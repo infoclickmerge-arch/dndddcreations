@@ -1,0 +1,12 @@
+{
+  "id": "teddy-candle",
+  "name": "Teddy Candle",
+  "price": 450,
+  "category": "Candles",
+  "description": "Adorable, cozy, and full of charm. This handcrafted teddy bear candle is more than just a light source; it's a companion for your cozy evenings. Made with premium wax for a soft, warm glow that enhances the atmosphere of any room.",
+  "image": "https://lh3.googleusercontent.com/d/1B9pNyTtQMpMjAXWqRsIsiDDbD0cqk1XC",
+  "features": ["Cute Design", "Premium Wax", "Soft Glow"],
+  "reviews": [
+    { "id": "r8", "userName": "Sonia L.", "rating": 4, "comment": "So cute, I don't want to light it!", "date": "2024-03-15" }
+  ]
+}

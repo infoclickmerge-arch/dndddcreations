@@ -1,0 +1,13 @@
+{
+  "id": "bubble-candle",
+  "name": "Bubble Candle",
+  "price": 350,
+  "category": "Candles",
+  "description": "A modern aesthetic masterpiece for the contemporary home. Our signature bubble candle is hand-poured using a premium soy wax blend, creating a clean-burning and visually stunning statement piece. Whether lit or used as decor, it adds a touch of minimalist luxury to any space.",
+  "image": "https://lh3.googleusercontent.com/d/19foy2DR9z3kg15B91H0aWmNHo9CZfTO7",
+  "features": ["Soy Wax", "Eco-friendly", "Unscented/Scented options"],
+  "reviews": [
+    { "id": "r3", "userName": "Priya K.", "rating": 5, "comment": "Looks amazing on my coffee table.", "date": "2024-01-15" },
+    { "id": "r4", "userName": "Amit P.", "rating": 5, "comment": "Great quality and clean burn.", "date": "2024-02-20" }
+  ]
+}

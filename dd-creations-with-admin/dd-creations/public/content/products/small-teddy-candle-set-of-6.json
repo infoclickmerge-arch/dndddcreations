@@ -1,0 +1,12 @@
+{
+  "id": "small-teddy-candle-set-of-6",
+  "name": "Small Teddy Candle (Set of 6)",
+  "price": 599,
+  "category": "Candles",
+  "description": "A whole family of adorable little teddies! This set of six small teddy candles is perfect for party favors, baby showers, or as a collection of small gifts that are sure to bring a smile to anyone's face.",
+  "image": "https://lh3.googleusercontent.com/d/1Y5idEk13mD_cM5Yhu0lDod_V4g6Sjmme",
+  "features": ["Mini Size", "Set of 6", "Adorable Colors"],
+  "reviews": [
+    { "id": "r21", "userName": "Tina F.", "rating": 5, "comment": "Perfect return gifts for kids.", "date": "2024-02-25" }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tulip-bouquet-in-glass-jar",
+  "name": "Tulip Bouquet in Glass Jar",
+  "price": 899,
+  "category": "Candles",
+  "description": "Our signature tulip bouquet, elegantly presented in a premium glass jar. This design not only enhances the aesthetic appeal but also ensures a safer and more controlled burn, making it a perfect luxury gift for any occasion.",
+  "image": "https://lh3.googleusercontent.com/d/1mNBJ-6bYSPCKWquBd2oZI0Lv8GsS8_Kt",
+  "features": ["Glass Jar", "Premium Presentation", "Longer Burn"],
+  "reviews": [
+    { "id": "r24", "userName": "Sanjay U.", "rating": 5, "comment": "Very classy jar.", "date": "2024-03-14" }
+  ]
+}

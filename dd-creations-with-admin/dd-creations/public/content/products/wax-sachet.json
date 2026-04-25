@@ -1,0 +1,12 @@
+{
+  "id": "wax-sachet",
+  "name": "Wax Sachet",
+  "price": 199,
+  "category": "Wax Sachets",
+  "description": "Simple, elegant, and timeless. Our standard wax sachet is handcrafted with premium wax and essential oils to provide a subtle, consistent fragrance that keeps your small spaces smelling fresh and inviting.",
+  "image": "https://lh3.googleusercontent.com/d/1RKwgF2RmFpgTJqTxiszhVmWnFDPyVX-b",
+  "features": ["Classic Design", "Essential Oils", "Handmade"],
+  "reviews": [
+    { "id": "r25", "userName": "Bhavna K.", "rating": 5, "comment": "Simple and effective.", "date": "2024-03-16" }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "snowflake-candle-set-of-2",
+  "name": "Snowflake Candle (Set of 2)",
+  "price": 399,
+  "category": "Candles",
+  "description": "Bring the magic of a winter wonderland indoors with our delicate snowflake candles. Sold as a set of two, these intricately designed pieces feature a shimmering finish that captures the light beautifully, perfect for seasonal decor.",
+  "image": "https://lh3.googleusercontent.com/d/1-8MH0CCxLE_DM26lBcsxWIgo_0g1S8Dx",
+  "features": ["Winter Theme", "Set of 2", "White & Silver"],
+  "reviews": [
+    { "id": "r19", "userName": "Chris M.", "rating": 4, "comment": "Great for Christmas decor.", "date": "2023-12-20" }
+  ]
+}

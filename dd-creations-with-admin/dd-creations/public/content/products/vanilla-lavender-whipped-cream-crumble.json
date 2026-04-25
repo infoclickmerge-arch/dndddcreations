@@ -1,0 +1,12 @@
+{
+  "id": "vanilla-lavender-whipped-cream-crumble",
+  "name": "Vanilla Lavender Whipped Cream Crumble",
+  "price": 850,
+  "category": "Candles",
+  "description": "A dessert-inspired masterpiece that smells as heavenly as it looks. Featuring a realistic whipped texture and a delightful crumble topping, this candle fills your room with the warm, comforting notes of vanilla and calming lavender.",
+  "image": "https://lh3.googleusercontent.com/d/14Dnhudx6gWq56NjPPL4GwAb1uGYdiSKJ",
+  "features": ["Whipped Texture", "Strong Scent Throw", "Artisanal"],
+  "reviews": [
+    { "id": "r14", "userName": "Ritu M.", "rating": 5, "comment": "Smells exactly like a bakery!", "date": "2024-01-05" }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "natural-spice-wax-sachet",
+  "name": "Natural Spice Wax Sachet",
+  "price": 299,
+  "category": "Wax Sachets",
+  "description": "Warm, spicy, and deeply earthy. This handcrafted wax sachet is infused with a blend of natural spices and pure essential oils, designed to bring a comforting and grounded fragrance to your closets, drawers, or study.",
+  "image": "https://lh3.googleusercontent.com/d/1x76wsqLCcMo3uhflxRgvsRm49SDZspWU",
+  "features": ["Natural Spices", "Warm Fragrance", "Eco-friendly"],
+  "reviews": [
+    { "id": "r20", "userName": "Alok R.", "rating": 5, "comment": "Very soothing spice scent.", "date": "2024-01-20" }
+  ]
+}
